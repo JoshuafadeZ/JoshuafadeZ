@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @JoshuafadeZ
-- 👀 I’m interested in discovering what I can create
+- 👋 Hi, I’m Joshua
+- 👀 I’m interested in getting a job as a computer programmer
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
